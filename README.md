@@ -1,6 +1,6 @@
 ﻿# 🍋 Ejercicio del Máster Frontend de Lemoncode 🍋
 
-## Laboratorio Módulo 01 - Layout -Extra
+## Laboratorio Módulo 01 - Layout - Extra
 
 **Contenido del Módulo 01**
 - Conceptos básicos HTML5 + CSS 3/4
